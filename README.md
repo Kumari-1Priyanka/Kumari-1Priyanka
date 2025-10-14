@@ -1,8 +1,8 @@
- Hello👋  I’m Priyanka. I'm a 3rd Year BCA Student at Maharishi Markandeshwar (Deemed to be University). 
+ Hello👋  I’m Priyanka. I'm a 1st Year MCA Student at Maharishi Markandeshwar (Deemed to be University). 
 
  My Primary Focus is On Fronted and Backend Developer, and I have a understanding of Javascript , Java and Nodejs.I have worked with different Technologies.
 
-**
+
 Some Technical Stuff**
 
 I Work With 
